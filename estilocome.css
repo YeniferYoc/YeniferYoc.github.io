@@ -1,0 +1,23 @@
+portafolio{
+	background-color:  gray;/*color del formulario*/
+	
+
+	color: white;/*color de la letra*/
+	font-size: 1.5em;/*tamaño de la letra*/
+	padding: 70px;/*tamaño*/
+	margin: auto;/*margen*/
+	width: 700px;/*ancho*/
+}
+
+
+.center-content{
+	text-align: center;/*alineacion del texto*/
+}
+.home{
+	display: flex;
+	flex-wrap: wrap;
+}
+.head{
+	display: flex;
+	flex-wrap: wrap;
+}
